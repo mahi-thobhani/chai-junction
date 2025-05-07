@@ -1,0 +1,55 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+}
+
+h1, h2, h4 {
+  color: #6a4f1b;
+}
+
+.navbar {
+  background-color: #6a4f1b;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff !important;
+}
+
+.hero {
+  background-color: #8c4f2a;
+  color: #fff;
+  padding: 50px 0;
+}
+
+footer {
+  background-color: #6a4f1b;
+  color: #fff;
+  padding: 10px 0;
+}
+
+.container {
+  padding: 20px;
+}
+
+/* Button Styling */
+.btn-primary {
+  background-color: #8c4f2a;
+  border-color: #8c4f2a;
+}
+
+.btn-primary:hover {
+  background-color: #6a4f1b;
+  border-color: #6a4f1b;
+}
+
+/* Form Styles */
+form .form-control {
+  border-radius: 5px;
+}
+
+form .btn {
+  margin-top: 20px;
+}
