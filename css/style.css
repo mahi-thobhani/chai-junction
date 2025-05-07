@@ -13,9 +13,10 @@ h1, h2, h4 {
   background-color: #6a4f1b;
 }
 
+/* Updated link color for better readability on light background */
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: #fff !important;
+  color: #000 !important;
 }
 
 .hero {
